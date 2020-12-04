@@ -105,13 +105,17 @@
 9. - 평등, 평화
    - 감동, 반복, 감정
 ### 참고 자료
+[![Youtube](http://img.youtube.com/vi/xsbk9AxCv1w/0.jpg)](https://www.youtube.com/embed/xsbk9AxCv1w "Youtube")
 
 ## 4교시 - 수학
 ### 바로가기
-[수학 바로가기](https://rang.edunet.net/class/G000325357/hmwkppList.do?hmwkSeq=00000)
+[수학 바로가기](https://rang.edunet.net/class/G000325357/hmwkppList.do?hmwkSeq=723911)
 ### 문제
+[수학 문제](https://rang.edunet.net/common/fileDownload.do?type=homework&sequence=488221)
 ### 정답
+![Math](https://i.imgur.com/HTqTIkR.png)
 ### 참고 자료
+[영상 보러가기](https://play.mbus.tv/1761b9c23ff43400)
 
 ## 5교시 - 동아리
 
